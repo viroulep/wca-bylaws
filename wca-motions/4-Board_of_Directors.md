@@ -43,13 +43,13 @@ The WCA Board of Directors (or simply WCA Board) is the leadership team of the W
    - 5.3. Communication within the WCA Board of Directors will be arranged internally with full logging of electronic communication.
 
 6. Removal of Directors
-   - 6.1. Directors will automatically be removed at the end of their term. See [Bylaws](../wca-bylaws.md) 3.4 (Election and Term of Office).
-   - 6.2. Directors may decide to resign before the end of their term. See [Bylaws](../wca-bylaws.md) 3.6 (Resignation).
-   - 6.3. The WCA Board of Directors may decide to remove a Director according to [Bylaws](../wca-bylaws.md) 3.7 (Removal). Before this final decision is made the WCA Board must first ask the WCA Ethics Committee for a non-binding advice on other possible solutions to the case leading to the possible removal.
-   - 6.4. The WCA Staff may decide to remove a Director according to [Bylaws](../wca-bylaws.md) 3.7 (Removal).
+   - 6.1. Directors will automatically be removed at the end of their term. See Bylaws 3.4 (Election and Term of Office).
+   - 6.2. Directors may decide to resign before the end of their term. See Bylaws 3.6 (Resignation).
+   - 6.3. The WCA Board of Directors may decide to remove a Director according to Bylaws 3.7 (Removal). Before this final decision is made the WCA Board must first ask the WCA Ethics Committee for a non-binding advice on other possible solutions to the case leading to the possible removal.
+   - 6.4. The WCA Staff may decide to remove a Director according to Bylaws 3.7 (Removal).
 
 7. Removal of all the Board of Directors
-   - 7.1. WCA Staff can request a voting to the WCA Ethics Committee to remove all the Board of Directors according to [Bylaws](../wca-bylaws.md) 3.7 (Removal).
+   - 7.1. WCA Staff can request a voting to the WCA Ethics Committee to remove all the Board of Directors according to Bylaws 3.7 (Removal).
       - 7.1.1. In order to consider such a request, the request must be signed by at least 20% of the WCA Staff.
       - 7.1.2. The WCA Ethics Committee will lead the process of the voting that will take place.
    - 7.2. A Supermajority among all WCA Staff is required to remove all the Board of Directors.
