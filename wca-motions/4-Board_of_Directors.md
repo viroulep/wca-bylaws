@@ -24,7 +24,7 @@ The WCA Board of Directors (or simply WCA Board) is the leadership team of the W
    - 2.2. To approve amendments to the Regulations. Such rights must be exercised in accordance with [WCA Motion : Amendments of Regulations](./14-Amendments_of_Regulations.md).
    - 2.3. To establish and remove Committees or change their duties. Such rights must be exercised in accordance with the Motion relative to every Committee.
    - 2.4. To instate and remove Senior Delegates. Such rights must be exercised in accordance with [WCA Motion : Senior Delegates](./9-Senior_Delegates.md).
-   - 2.5. To suspend or take other sanctions against Registered Speedcubers and to reinstate Registered Speedcubers that have been suspended. Such rights must be exercised in accordance with [WCA Motion : Suspensions and other Sanctions](./15-Suspensions_and_Other_Sanctions.md).
+   - 2.5. To suspend or take other sanctions against Registered Speedcubers and to reinstate Registered Speedcubers that have been suspended. Such rights must be exercised in accordance with [WCA Motion : Suspensions and other Sanctions](./15-Suspensions_and_other_Sanctions.md).
    - 2.6. To approve the annual budget proposal of the WCA Financial Committee in accordance with [WCA Motion : Finances](./11-Finances.md).
    - 2.7. To approve and announce WCA Competitions.
    - 2.8. To accept or not accept results of WCA Competitions as official, according to the procedures in the Regulations.
